@@ -1,4 +1,4 @@
-# 🚖 Taxi Fare Prediction using Machine Learning
+#  indrive Fare Prediction using Machine Learning
 
 ### End-to-End Regression Pipeline with Feature Engineering & Neural Network (MLPRegressor)
 
