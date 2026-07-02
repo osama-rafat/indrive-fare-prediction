@@ -2,10 +2,6 @@
 
 ### End-to-End Regression Pipeline with Feature Engineering & Neural Network (MLPRegressor)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
